@@ -1,7 +1,8 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: depends on my mood... but mostly raw food - or junk food - or french cuisine
+I like to hear: jazz, liturgic, jam
+My hobbies are reading, diving, learning, spending time with my wife and kids, beekeeping.
 
-I would like to travel to <XXXX>.
+I would like to travel to somewhere over the rainbow.
 
-"<XXXX Your favorite quote goes here>".
+Only dead fishes flow along the river, living ones choose their own course.
+
